@@ -15,6 +15,8 @@ Open the following folder:
 
 Find the file `Sublime Text 2.icns` and replace with the one from this repository. The name needs to remain exactly the same.
 
+If you want to replace the built-in document icons as well, copy all the .icns files from this project's `Document Icons` folder to the same folder as above. Doing so will overwrite the application's default icons, so you may want to back them up in case you'd like to restore them.`
+
 Installation (Windows 7)
 ------------
 
