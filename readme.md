@@ -2,7 +2,7 @@ Sublime Text 2 Replacement Icon
 =============
 A replacement icon for [Sublime Text 2](http://sublimetext.com/2)
 
-![Sublime Text 2 replacement icon preview](https://github.com/t32k/Sublime-Text-2-Icon/raw/master/st2_icon_preview.png "Preview")
+![Sublime Text 2 replacement icon preview](https://raw.github.com/t32k/Sublime-Text-2-Icon/moreskine/st2_icon_preview.png"Preview")
 
 Created by [Koji Ishimoto](http://t32k.me/)
 
